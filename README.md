@@ -13,7 +13,7 @@ the script must have an image of the level, and name of the mob. However, to get
   
   2.The picture MUST be taken in the same MONITOR that you will put the TOP client in.
   
-  
+I've attached some pictures that might also be useful as they drop the class advancement items which can be sold for a pretty penny and easy to kill. 
 "AnchoredX" and "AnchoredY" is the coordinates that your character will go to if he hasn't attacked anything within the timespan that you decide. 
 
 You can either grind out levels using attackHere()
