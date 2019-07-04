@@ -13,7 +13,8 @@ the script must have an image of the level, and name of the mob. However, to get
   
   2.The picture MUST be taken in the same MONITOR that you will put the TOP client in.
   
-"AnchoredX" and "AnchoredY" is the coordinates that your character will go to if he hasn't attacked anything within the timespan that you decide.
+  
+"AnchoredX" and "AnchoredY" is the coordinates that your character will go to if he hasn't attacked anything within the timespan that you decide. The bot will not go to coordinates that are in different hemispheres of the game.
 
 You can either grind out levels using attackHere()
 
