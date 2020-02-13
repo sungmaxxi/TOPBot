@@ -1,9 +1,6 @@
 # TOPBot
 
 
-I went back to the very first computer game that I ever played and did not realize how much of a grind it was to get to endgame. I guess as a kid I didn't mind pouring hours and hours into a game. Wrote a quick script so that my character would keep grinding with me away from the computer.
-
-
 Written in Python with pyautogui and pywin32,
 
 the script must have an image of the level, and name of the mob. However, to get this image you must abide by some conditions:
